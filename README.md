@@ -23,6 +23,6 @@ To run this tool, simply clone the repository and execute the script. The applic
 
 ## Note
 
-This file is apart of the AVS Softwares LLC program. Coming soon. 2025.
+You can happily look into the source code and modify it to your liking. #FreeEditingPrivileges
 
 ---
