@@ -21,4 +21,8 @@ To run this tool, simply clone the repository and execute the script. The applic
 2. Click "Start Monitoring" to begin monitoring the specified directories for file changes.
 3. The application will display detected file activity and any suspicious file notifications.
 
+## Note
+
+This file is apart of the AVS Softwares LLC program. Coming soon. 2025.
+
 ---
