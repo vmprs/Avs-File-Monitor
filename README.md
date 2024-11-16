@@ -11,9 +11,10 @@ AVS Monitor Essentials is a lightweight Python application that monitors your Do
 - **Automatic Dependency Management**: Installs required Python packages if they are missing.
 - **User-friendly GUI**: Simple interface to display file activity and alerts.
 
-## Installation
+## Download
 
 To run this tool, simply clone the repository and execute the script. The application will automatically install any missing dependencies.
+Alternativately, you can download the it in exe-form from the latest release.
 
 ## Usage
 
