@@ -18,7 +18,7 @@ Alternativately, you can download the it in exe-form from the latest release.
 
 ## Usage
 
-1. Run the Python script.
+1. Run the Python/EXE-Form script.
 2. Click "Start Monitoring" to begin monitoring the specified directories for file changes.
 3. The application will display detected file activity and any suspicious file notifications.
 
